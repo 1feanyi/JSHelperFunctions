@@ -1,7 +1,7 @@
 # JS Helper Functions
 Helper functions to help make repetitive tasks a bit easier.
 
-##The Functions
+## The Functions
 - [x] **$$.js.** Get an array of all matching elements in the DOM.
 - [x] **$.js.** Get the first matching element in the DOM.
 - [x] **addToObject.js.** Add a key/value pair to an object at a specific position.
